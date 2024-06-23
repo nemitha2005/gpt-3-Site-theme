@@ -1,6 +1,8 @@
 # Modern React Site
 
-![Home Page Screenshot](./screenshots/home.png)
+![Desktop view Screenshot](./screenshots/desktop.png)
+![Tablet view Screenshot](./screenshots/tablet.png)
+![Mobile view Screenshot](./screenshots/mobile.png)
 
 ## About
 
@@ -15,17 +17,17 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/nemitha2005/gpt-3-site-theme.git
 
-2. **Navigate to the project directory:
+2. **Navigate to the project directory**:
 
    ```bash
    cd gpt-3-site-theme
 
-3. **Install dependencies:
+3. **Install dependencies**:
 
    ```bash
    npm install
 
-4. **Start the development server:
+4. **Start the development server**:
 
    ```bash
    npm start
