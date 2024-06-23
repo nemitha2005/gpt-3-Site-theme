@@ -1,8 +1,8 @@
 # Modern React Site
 
-![Desktop view Screenshot](./screenshots/desktop.png)
-![Tablet view Screenshot](./screenshots/tablet.png)
-![Mobile view Screenshot](./screenshots/mobile.png)
+![Desktop view Screenshot](./screenshots/desktop.PNG)
+![Tablet view Screenshot](./screenshots/tablet.PNG)
+![Mobile view Screenshot](./screenshots/mobile.PNG)
 
 ## About
 
