@@ -35,3 +35,5 @@ To run this project locally, follow these steps:
 ## Demo
 
 Check out the live version also.
+
+(https://gpt-3-info-khaki.vercel.app/)
